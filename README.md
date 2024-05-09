@@ -3,4 +3,4 @@
 ## 팀원
 김남교 | 김보건 | 유진웅 | 한강빈
 ## 프로젝트 계획
-
+![프로젝트 사전 조사](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%82%AC%EC%A0%84%20%EC%A1%B0%EC%82%AC.png)
