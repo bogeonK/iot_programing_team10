@@ -5,3 +5,5 @@
 ## 프로젝트 계획
 ![프로젝트 사전 조사](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%82%AC%EC%A0%84%20%EC%A1%B0%EC%82%AC.png)
 ![프로젝트 계획](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D.png)
+## 플로우차트
+![플로우차트](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/flowchart.png?raw=true)
