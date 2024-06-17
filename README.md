@@ -7,3 +7,11 @@
 ![프로젝트 계획](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D.png)
 ## 플로우차트
 ![플로우차트](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/flowchart.png?raw=true)
+
+---
+
+## **5. 게임 실행 영상**
+- **러시안 룰렛 게임 실행 Youtube Link** : [H-Smart4412 활용 러시안 룰렛 게임(Russian Rulette Game)](https://youtu.be/yONbquB6PvU?feature=shared)
+
+---
+
