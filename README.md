@@ -25,6 +25,12 @@
  - ### ** d**
     ![gif_04](/video_clip/GIF/end.gif)
 
+## **4. 게임 코드**
+
+ - **`'russian_roulette.c'` - 메인코드 작성**  
+    앞의 모든 코드를 종합하여 메인 코드 제작 - 
+    ['russian_roulette.c'](https://github.com/kimnamgyo/iot_programing_team10/blob/main/code/russian_roulette.c) 참고
+
 ---
 
 ## **5. 게임 실행 영상**
