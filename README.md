@@ -41,4 +41,7 @@
 - **러시안 룰렛 게임 실행 Youtube Link** : [H-Smart4412 활용 러시안 룰렛 게임(Russian Rulette Game)](https://youtu.be/yONbquB6PvU?feature=shared)
 
 ---
+## **출처 및 참고**
+ - [**IoT_HSmart4412**](https://takethat.tistory.com/30)
+ - [**H-Smart4412를 이용한 인디언 포커 게임**](https://velog.io/@hamsangjin/H-Smart4412%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EB%94%94%EC%96%B8-%ED%8F%AC%EC%BB%A4-%EA%B2%8C%EC%9E%84)
 
