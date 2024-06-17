@@ -3,8 +3,6 @@
 ## 팀원
 김남교 | 김보건 | 유진웅 | 한강빈
 ## 프로젝트 계획
-- **폭탄 해체 게임**  dot matrix, 표현, 폭탄타이머 참고
-- **인디언 포커 게임**  1:1 턴제를 참고
 
 ![프로젝트 사전 조사](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%82%AC%EC%A0%84%20%EC%A1%B0%EC%82%AC.png)
 ![프로젝트 계획](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D.png)
@@ -42,6 +40,6 @@
 
 ---
 ## **출처 및 참고**
- - [**IoT_HSmart4412**](https://takethat.tistory.com/30)
- - [**H-Smart4412를 이용한 인디언 포커 게임**](https://velog.io/@hamsangjin/H-Smart4412%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EB%94%94%EC%96%B8-%ED%8F%AC%EC%BB%A4-%EA%B2%8C%EC%9E%84)
+ - [**IoT_HSmart4412**](https://takethat.tistory.com/30) - **폭탄 해체 게임**  dot matrix, 표현, 폭탄타이머 참고
+ - [**H-Smart4412를 이용한 인디언 포커 게임**](https://velog.io/@hamsangjin/H-Smart4412%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EB%94%94%EC%96%B8-%ED%8F%AC%EC%BB%A4-%EA%B2%8C%EC%9E%84) - **인디언 포커 게임**  1:1 턴제를 참고
 
