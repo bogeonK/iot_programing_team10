@@ -13,16 +13,16 @@
 
 ## **3. 게임 소개**
 
- - ### ** d**
+ - ### **게임 시작시**
     ![gif_01](video_clip/GIF/start.gif)
 
- - ### ** d**
-    ![gif_02](/video_clip/GIF/dot.gif)
+ - ### **타이머**
+    ![gif_02](/video_clip/GIF/timer.gif)
 
- - ### ** d**
-    ![gif_03](/video_clip/GIF/timer.gif)
+  - ### **번갈아가며 총쏘기**
+    ![gif_03](/video_clip/GIF/dot.gif)
 
- - ### ** d**
+ - ### **타이머가 다 되거나 실탄을 쏘면 게임 종료**
     ![gif_04](/video_clip/GIF/end.gif)
 
 ## **4. 게임 코드**
