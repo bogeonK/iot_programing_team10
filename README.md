@@ -11,7 +11,7 @@
 ## 플로우차트
 ![플로우차트](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/flowchart.png?raw=true)
 
-## **3. 게임 소개**
+## **게임 소개**
 
  - ### **게임 시작시**
     ![gif_01](video_clip/GIF/start.gif)
@@ -25,7 +25,7 @@
  - ### **타이머가 다 되거나 실탄을 쏘면 게임 종료**
     ![gif_04](/video_clip/GIF/end.gif)
 
-## **4. 게임 코드**
+## **게임 코드**
 
  - **`'russian_roulette.c'` - 메인코드 작성**  
     앞의 모든 코드를 종합하여 메인 코드 제작 - 
@@ -33,7 +33,7 @@
 
 ---
 
-## **5. 게임 실행 영상**
+## **게임 실행 영상**
 - **러시안 룰렛 게임 실행 Youtube Link** : [H-Smart4412 활용 러시안 룰렛 게임(Russian Rulette Game)](https://youtu.be/yONbquB6PvU?feature=shared)
 
 ---
