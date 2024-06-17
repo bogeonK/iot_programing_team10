@@ -19,6 +19,12 @@
  - ### ** d**
     ![gif_02](/video_clip/GIF/dot.gif)
 
+ - ### ** d**
+    ![gif_03](/video_clip/GIF/timer.gif)
+
+ - ### ** d**
+    ![gif_04](/video_clip/GIF/end.gif)
+
 ---
 
 ## **5. 게임 실행 영상**
