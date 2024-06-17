@@ -12,11 +12,13 @@
 ![플로우차트](https://github.com/kimnamgyo/iot_programing_team10/blob/main/img/flowchart.png?raw=true)
 
 ## **3. 게임 소개**
-### **게임 제작**
 
  - ### ** d**
+    ![gif_01](video_clip/GIF/start.gif)
 
-    ![gif_01](/video_clip/GIF/dot.gif)
+ - ### ** d**
+    ![gif_02](/video_clip/GIF/dot.gif)
+
 ---
 
 ## **5. 게임 실행 영상**
